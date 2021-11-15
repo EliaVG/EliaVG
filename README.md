@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EliaVG
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning Javascript, PHP, Python, Java, CSS, SQL and C++
+- 📫 How to reach me: eliavacasgarcia@gmail.com
