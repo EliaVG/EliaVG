@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EliaVG
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Javascript, PHP, Python, Java, CSS, SQL and C++
+- 👀 I’m interested in Fronend Web Application Development
+- 🌱 I’m currently working as an intern in Foxxum GmbH
 - 📫 How to reach me: eliavacasgarcia@gmail.com
