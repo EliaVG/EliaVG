@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EliaVG
 - 👀 I’m interested in Frontend Web Application Development
-- 🌱 I’m currently working as an intern in Foxxum GmbH
+- 🌱 I’m currently working in LucaTic, in project with Accenture for Unicaja
 - 📫 How to reach me: eliavacasgarcia@gmail.com
